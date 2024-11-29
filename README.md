@@ -2,4 +2,4 @@
 
 10. Deferrable Views:
 
-![Deferrable Views](https://raw.githubusercontent.com/chaloemchai-beer/Image/refs/heads/main/Angular/RunAngular.png)
+![Deferrable Views](./10%20Deferrable%20Views/Deferrable%20Views.png)
